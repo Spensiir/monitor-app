@@ -1,0 +1,560 @@
+{
+    "@type": "PagedGpsMessageResult",
+    "index": 0,
+    "limit": 100,
+    "count": 26,
+    "total": 26,
+    "gpsMessage": [
+        {
+            "messageTime": "2020-10-08T17:32:20Z",
+            "satellite": false,
+            "latitude": 42.116338,
+            "longitude": -86.450276,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2020-10-08T17:32:20Z",
+                "value": 177717.59
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 1,
+            "vehicleId": 952448
+        },
+        {
+            "messageTime": "2021-04-16T19:46:24Z",
+            "satellite": false,
+            "latitude": 42.101618,
+            "longitude": -86.445938,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:46:24Z",
+                "value": 43417.35
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 32,
+            "avgSpeed": 16,
+            "maxSpeed": 32,
+            "heading": 91,
+            "vehicleId": 1086046
+        },
+        {
+            "messageTime": "2019-09-21T12:34:56Z",
+            "satellite": false,
+            "latitude": 42.051627,
+            "longitude": -86.466418,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2019-09-21T12:34:56Z",
+                "value": 230275.38
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 1,
+            "vehicleId": 952449
+        },
+        {
+            "messageTime": "2021-03-24T21:05:57Z",
+            "satellite": false,
+            "latitude": 42.116836,
+            "longitude": -86.451769,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.012427423844746679
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-03-24T21:05:57Z",
+                "value": 197591.72
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 0,
+            "vehicleId": 953822
+        },
+        {
+            "messageTime": "2019-03-24T23:50:59Z",
+            "satellite": false,
+            "latitude": 42.116409,
+            "longitude": -86.452551,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2019-03-24T23:50:59Z",
+                "value": 31587.06
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 0,
+            "vehicleId": 944671
+        },
+        {
+            "messageTime": "2021-04-16T16:34:10Z",
+            "satellite": false,
+            "latitude": 42.116693,
+            "longitude": -86.451911,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.0
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T16:34:10Z",
+                "value": 10019.15
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 5,
+            "maxSpeed": 9,
+            "vehicleId": 944669
+        },
+        {
+            "messageTime": "2021-04-15T22:06:46Z",
+            "satellite": false,
+            "latitude": 42.116836,
+            "longitude": -86.451911,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.012427423844746679
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-15T22:06:46Z",
+                "value": 56690.23
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 0,
+            "vehicleId": 1000468
+        },
+        {
+            "messageTime": "2019-04-09T20:03:11Z",
+            "satellite": false,
+            "latitude": 42.077796,
+            "longitude": -86.430293,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2019-04-09T20:03:11Z",
+                "value": 86353.62
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 1,
+            "vehicleId": 952430
+        },
+        {
+            "messageTime": "2021-04-16T19:44:39Z",
+            "satellite": false,
+            "latitude": 42.07936,
+            "longitude": -86.494009,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:44:39Z",
+                "value": 37502.42
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 11,
+            "avgSpeed": 21,
+            "maxSpeed": 37,
+            "heading": 181,
+            "vehicleId": 1000367
+        },
+        {
+            "messageTime": "2021-04-15T19:48:39Z",
+            "satellite": false,
+            "latitude": 42.041387,
+            "longitude": -86.366009,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.01864113576712002
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-15T19:48:39Z",
+                "value": 129678.23999999999
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 12,
+            "vehicleId": 952431
+        },
+        {
+            "messageTime": "2021-04-16T19:45:06Z",
+            "satellite": false,
+            "latitude": 42.077938,
+            "longitude": -86.425173,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:45:06Z",
+                "value": 156809.78
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 0,
+            "vehicleId": 952426
+        },
+        {
+            "messageTime": "2021-04-16T19:32:55Z",
+            "satellite": false,
+            "latitude": 42.116409,
+            "longitude": -86.452622,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:32:55Z",
+                "value": 60402.44
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 5,
+            "maxSpeed": 14,
+            "vehicleId": 1079862
+        },
+        {
+            "messageTime": "2021-04-06T17:57:18Z",
+            "satellite": false,
+            "latitude": 42.116409,
+            "longitude": -86.451058,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.0
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-06T17:57:18Z",
+                "value": 10481.13
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 0,
+            "vehicleId": 944610
+        },
+        {
+            "messageTime": "2021-04-16T18:53:03Z",
+            "satellite": false,
+            "latitude": 42.116267,
+            "longitude": -86.451556,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T18:53:03Z",
+                "value": 156575.78999999998
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 0,
+            "vehicleId": 953824
+        },
+        {
+            "messageTime": "2021-04-16T19:17:10Z",
+            "satellite": false,
+            "latitude": 42.116409,
+            "longitude": -86.452409,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:17:10Z",
+                "value": 59524.0
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 5,
+            "maxSpeed": 15,
+            "vehicleId": 1000380
+        },
+        {
+            "messageTime": "2021-04-16T19:46:37Z",
+            "satellite": false,
+            "latitude": 42.133902,
+            "longitude": -86.405902,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:46:37Z",
+                "value": 182320.93
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 10,
+            "avgSpeed": 17,
+            "maxSpeed": 24,
+            "heading": 179,
+            "vehicleId": 952442
+        },
+        {
+            "messageTime": "2020-12-06T01:20:15Z",
+            "satellite": false,
+            "latitude": 42.116409,
+            "longitude": -86.450276,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2020-12-06T01:20:15Z",
+                "value": 167361.69
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 0,
+            "vehicleId": 952443
+        },
+        {
+            "messageTime": "2021-04-16T19:45:41Z",
+            "satellite": false,
+            "latitude": 42.087253,
+            "longitude": -86.420764,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:45:41Z",
+                "value": 189837.03999999998
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 9,
+            "avgSpeed": 19,
+            "maxSpeed": 35,
+            "heading": 153,
+            "vehicleId": 952440
+        },
+        {
+            "messageTime": "2021-04-16T19:46:37Z",
+            "satellite": false,
+            "latitude": 42.092018,
+            "longitude": -86.42624,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:46:37Z",
+                "value": 132544.25
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 39,
+            "avgSpeed": 40,
+            "maxSpeed": 41,
+            "heading": 311,
+            "vehicleId": 951673
+        },
+        {
+            "messageTime": "2020-06-19T16:15:47Z",
+            "satellite": false,
+            "latitude": 42.11648,
+            "longitude": -86.452267,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2020-06-19T16:15:47Z",
+                "value": 14887.52
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 7,
+            "maxSpeed": 21,
+            "vehicleId": 1076071
+        },
+        {
+            "messageTime": "2021-04-16T19:45:28Z",
+            "satellite": false,
+            "latitude": 42.116196,
+            "longitude": -86.452338,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:45:28Z",
+                "value": 116317.67
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 1,
+            "avgSpeed": 2,
+            "maxSpeed": 6,
+            "vehicleId": 952439
+        },
+        {
+            "messageTime": "2021-03-17T17:57:15Z",
+            "satellite": false,
+            "latitude": 42.041458,
+            "longitude": -86.366507,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.06835083114610674
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-03-17T17:57:15Z",
+                "value": 30016.59
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 0,
+            "vehicleId": 1058857
+        },
+        {
+            "messageTime": "2021-04-16T18:59:57Z",
+            "satellite": false,
+            "latitude": 42.11648,
+            "longitude": -86.451484,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T18:59:57Z",
+                "value": 73040.58
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 7,
+            "vehicleId": 952437
+        },
+        {
+            "messageTime": "2021-04-16T19:46:01Z",
+            "satellite": false,
+            "latitude": 42.089884,
+            "longitude": -86.422898,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:46:01Z",
+                "value": 30476.39
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 1,
+            "avgSpeed": 26,
+            "maxSpeed": 45,
+            "vehicleId": 1058859
+        },
+        {
+            "messageTime": "2021-04-16T19:45:09Z",
+            "satellite": false,
+            "latitude": 42.110507,
+            "longitude": -86.438898,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:45:09Z",
+                "value": 37544.15
+            },
+            "keyOn": true,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 0,
+            "maxSpeed": 1,
+            "vehicleId": 952433
+        },
+        {
+            "messageTime": "2021-04-16T19:26:29Z",
+            "satellite": false,
+            "latitude": 42.116409,
+            "longitude": -86.452409,
+            "accuracy": {
+                "@units": "MILES",
+                "value": 0.006213711922373339
+            },
+            "odometer": {
+                "@units": "MILES",
+                "@timestamp": "2021-04-16T19:26:29Z",
+                "value": 44317.13
+            },
+            "keyOn": false,
+            "parked": false,
+            "lastSpeed": 0,
+            "avgSpeed": 5,
+            "maxSpeed": 19,
+            "vehicleId": 1000368
+        }
+    ]
+}

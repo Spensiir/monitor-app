@@ -1,0 +1,234 @@
+{
+    "unassigned_riders": [
+        {
+            "name": "Jennifer Lopez",
+            "pickup": "106921",
+            "dropoff": "D",
+            "transit_time": "-",
+            "wait_time": "00:15:42",
+            "latLng": {
+                "lat": 33.749,
+                "lng": -84.3001 
+            }
+        },
+        {
+            "name": "Jennifer Aniston",
+            "pickup": "A",
+            "dropoff": "D",
+            "transit_time": "-",
+            "wait_time": "00:15:42",
+            "latLng": {
+                "lat": 33.752,
+                "lng": -84.29 
+            }
+        },
+        {
+            "name": "Jennifer Lawrence",
+            "pickup": "A",
+            "dropoff": "D",
+            "transit_time": "-",
+            "wait_time": "00:15:42",
+            "latLng": {
+                "lat": 33.754,
+                "lng": -84.285
+            }
+        }
+    ],
+    "shuttles": [ 
+        {
+        "name": "1",
+        "driver": "Janice London",
+        "latLng": {
+            "latitude": 33.75,  
+            "longitude": -84.3
+        },
+        "stops": [
+            {
+                "stop": "7000239",
+                "pickup": ["Anthony Trassati", "Connor Riley", "Joanne Park"],
+                "dropoff": ["Rick Sanchez", "Summer Smith", "XiangFei Huang"]
+            },
+            {
+                "stop": "7000925",
+                "pickup": ["John Doe", "Cathy Hong"],
+                "dropoff": ["Anthony Trassati"]
+            },
+            {
+                "stop": "106084",
+                "pickup": [],
+                "dropoff": ["Connor Riley", "John Doe"]
+            }
+        ],
+        "passengers": [
+            {
+                "name": "Rick Sanchez",
+                "pickup": "A",
+                "dropoff": "D",
+                "transit_time": "02:15:42",
+                "wait_time": "02:15:42",
+                "status": "in-shuttle"
+            },
+            {
+                "name": "Summer Smith",
+                "pickup": "A",
+                "dropoff": "D",
+                "transit_time": "02:15:42",
+                "wait_time": "00:33:10",
+                "status": "in-shuttle"
+            },
+            {
+                "name": "XiangFei Huang",
+                "pickup": "A",
+                "dropoff": "D",
+                "transit_time": "02:15:42",
+                "wait_time": "00:33:10",
+                "status": "in-shuttle"
+            }
+        ],
+        "assigned_riders": [
+            {
+                "name": "Anthony Trassati",
+                "pickup": "7000239",
+                "dropoff": "D",
+                "transit_time": "",
+                "wait_time": "02:15:42",
+                "status": "assigned"
+            },
+            {
+                "name": "Connor Riley",
+                "pickup": "7000239",
+                "dropoff": "D",
+                "transit_time": "",
+                "wait_time": "02:15:42",
+                "status": "assigned"
+            },
+            {
+                "name": "Joanne Park",
+                "pickup": "7000239",
+                "dropoff": "D",
+                "transit_time": "",
+                "wait_time": "02:15:42",
+                "status": "assigned"
+            }
+        ]
+        }
+        ,
+        {
+        "name": "2",
+        "driver": "Jared Mung",
+        "latLng": {
+            "latitude": 33.74,  
+            "longitude": -84.29
+        },
+        "stops": [
+            {
+                "stop": "7000965",
+                "pickup": ["Spencer Huang", "Sam Baskin"],
+                "dropoff": ["Morty Sanchez", "Beth Smith"]
+            },
+            {
+                "stop": "106212",
+                "pickup": ["John Doe", "Cathy Hong"],
+                "dropoff": ["Anthony Trassati"]
+            },
+            {
+                "stop": "7001474",
+                "pickup": [],
+                "dropoff": ["Connor Riley", "John Doe"]
+            }
+        ],
+        "passengers": [
+            {
+                "name": "Morty Smith",
+                "pickup": "A",
+                "dropoff": "D",
+                "transit_time": "02:15:42",
+                "wait_time": "01:07:91",
+                "status": "in-shuttle"
+            },
+            {
+                "name": "Beth Smith",
+                "pickup": "A",
+                "dropoff": "D",
+                "transit_time": "02:15:42",
+                "wait_time": "00:59:78",
+                "status": "in-shuttle"
+            }
+        ],
+        "assigned_riders": [
+            {
+                "name": "Spencer Huang",
+                "pickup": "7000965",
+                "dropoff": "D",
+                "transit_time": "",
+                "wait_time": "02:15:42",
+                "status": "assigned"
+            },
+            {
+                "name": "Sam Baskin",
+                "pickup": "7000965",
+                "dropoff": "D",
+                "transit_time": "",
+                "wait_time": "02:15:42",
+                "status": "assigned"
+            }
+        ]    
+        }, 
+        {
+            "name": "3",
+            "driver": "Rohan Patel",
+            "latLng": {
+                "latitude": 33.76,  
+                "longitude": -84.28
+            },
+            "stops": [
+                {
+                    "stop": "7001068",
+                    "pickup": ["Kevin D.", "Seyma Gurkan"],
+                    "dropoff": ["Bird Person", "Jerry Smith"]
+                },
+                {
+                    "stop": "7000979",
+                    "pickup": ["Karen Mater", "Zhou Long"],
+                    "dropoff": ["Anthony Trassati"]
+                }
+            ],
+            "passengers": [
+                {
+                    "name": "Jerry Smith",
+                    "pickup": "A",
+                    "dropoff": "D",
+                    "transit_time": "02:15:42",
+                    "wait_time": "01:11:48",
+                    "status": "in-shuttle"
+                },
+                {
+                    "name": "Bird Person",
+                    "pickup": "A",
+                    "dropoff": "D",
+                    "transit_time": "02:15:42",
+                    "wait_time": "00:42:75",
+                    "status": "in-shuttle"
+                }
+            ],
+            "assigned_riders": [
+                {
+                    "name": "Kevin D.",
+                    "pickup": "7001068",
+                    "dropoff": "D",
+                    "transit_time": "",
+                    "wait_time": "02:15:42",
+                    "status": "assigned"
+                },
+                {
+                    "name": "Seyma Gurkan",
+                    "pickup": "7001068",
+                    "dropoff": "D",
+                    "transit_time": "",
+                    "wait_time": "02:15:42",
+                    "status": "assigned"
+                }
+            ]    
+            } 
+    ]
+}
